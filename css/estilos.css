@@ -1,6 +1,6 @@
 body{
     color: #333;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
     font-size: 16px;
     margin: 0;
@@ -10,8 +10,9 @@ body{
 #cabecera{
     background:  #33A;
     box-shadow: 0px 2px 20px 0px rgba(0, 0,0, 0.5) ;
-    color: rgb(190, 19, 19);
-    font-weight: bold;
+    color: rgb(245, 189, 35);
+    font-weight: lighter;
+    font-size: 30px;
     margin: 0;
     padding: 0.5em;
 }
